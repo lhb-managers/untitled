@@ -10,6 +10,7 @@
         <module name="untitled2" />
         <module name="untitled3" />
         <module name="untitled4" />
+        <module name="untitled5" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="untitled2" target="1.8" />
       <module name="untitled3" target="1.8" />
       <module name="untitled4" target="1.8" />
+      <module name="untitled5" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
