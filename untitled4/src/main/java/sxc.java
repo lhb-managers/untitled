@@ -1,0 +1,2 @@
+public class sxc {
+}
